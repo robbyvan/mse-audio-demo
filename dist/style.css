@@ -20,8 +20,9 @@ html, body {
 
 pre {
   width: 400px;
-  margin: 0 auto;
-  background-color: lavender;
+  margin: 20px auto;
+  color: lavender;
+  background-color: #aaa;
   min-height: 300px;
   max-height: 300px;
   overflow-y: scroll;
